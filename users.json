@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "df89",
+      "email": "js.sanjeeb@gmail.com",
+      "firstName": "Sanjeeb",
+      "lastName": "Sapkota",
+      "company": "Outcode LLC"
+    },
+    {
+      "id": "eca7",
+      "email": "ujjal@email.com",
+      "firstName": "Ujjwal ",
+      "lastName": "Maharjan",
+      "company": "Smart Works LTD"
+    },
+    {
+      "id": "6aaf",
+      "email": "bishal@email.com",
+      "firstName": "Bishal",
+      "lastName": "Paudel",
+      "company": "Bishal Co"
+    },
+    {
+      "id": "9f45",
+      "email": "ananta@email.com",
+      "firstName": "Ananta",
+      "lastName": "Dhungana",
+      "company": "Ananta Co"
+    },
+    {
+      "id": "7f5a",
+      "email": "zeta@email.com",
+      "firstName": "Zeta",
+      "lastName": "Morto",
+      "company": "Morto Co"
+    },
+    {
+      "id": "83bb",
+      "email": "man@email.com",
+      "firstName": "Commando",
+      "lastName": "Man",
+      "company": "Man LTD"
+    }
+  ]
+}
